@@ -15,6 +15,7 @@ and provide actionable business insights.
 - Jupyter Notebook
 
 ## Key Insights
+![Attrition Dashboard](attrition_dashboard.png)
 1. Overall 16.12% of employees left the company
 2. Sales department has highest attrition at 20.63%
 3. Employees under 25 leave the most at 39.18%
