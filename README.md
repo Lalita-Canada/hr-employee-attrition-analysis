@@ -34,5 +34,4 @@ and provide actionable business insights.
 IBM HR Analytics Employee Attrition Dataset from Kaggle
 
 ## View Full Project on Kaggle
-https://www.kaggle.com/code/lalitacanada/ibm-hr-employee-attrition-analysis-sql-python# hr-employee-attrition-analysis
-IBM HR Employee Attrition Analysis using SQL and Python to identify key factors driving employee turnover
+https://www.kaggle.com/code/lalitacanada/ibm-hr-employee-attrition-analysis-sql-python
